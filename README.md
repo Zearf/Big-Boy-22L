@@ -1,6 +1,6 @@
-# Big-Boy-22L
+# Big-Boys-22L
 Welcome to our group repository.
-Member:
+Members:
 - Bao Nguyen | 53284784 | Zearf
 - Vincel     | SID      | FlamezenX
 - Eze        | 47701590 | NotEze7
