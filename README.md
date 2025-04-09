@@ -7,5 +7,5 @@ Welcome to our group repository.
 | Vincel            |   SID   | FlamezenX |
 | Eze               |  47701590   | NotEze7 |
 | Ethan             | SID      | ethans-tan |
-| Teamate 5         | SID      | github username |
+| Connan            | 25095476      | 123ckw |
 | Teamate 6         | SID      | github username |
